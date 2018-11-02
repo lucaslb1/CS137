@@ -1,0 +1,3 @@
+program:
+	gcc NucleotideCounter.c
+
